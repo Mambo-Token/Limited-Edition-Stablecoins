@@ -1,5 +1,5 @@
 # Limited-Edition-Stablecoins
-Limited Edition Stablecoin Protocol: Stablecoins with limited supply to become collectibles.
+Limited Edition Stablecoin Protocol: Stablecoins with limited supply to become **collectibles.**
 
 Such Stablecoins have a strongly limited initial supply without minting function, only burning function.
 
